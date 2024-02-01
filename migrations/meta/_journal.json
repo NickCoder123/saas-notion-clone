@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1706770992855,
+      "tag": "0000_nosy_madrox",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1706771400610,
+      "tag": "0001_dark_patch",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1706772459645,
+      "tag": "0002_chubby_echo",
+      "breakpoints": true
+    }
+  ]
+}
